@@ -52,11 +52,11 @@ public class Product {
         this.productName = productName;
     }
 
-    public int getYear() {
+    public int getModel() {
         return model;
     }
 
-    public void setYear(int year) {
+    public void setModel(int model) {
         this.model = model;
     }
 
